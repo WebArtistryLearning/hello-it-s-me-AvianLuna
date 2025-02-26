@@ -1,2 +1,2 @@
 name=input()
-print(Hello, +"input"+"!")
+print("Hello, "+ name + "!")
